@@ -129,6 +129,29 @@ export PKG_CONFIG_PATH="/Users/menghaw1/Homebrew/opt/jpeg-turbo/lib/pkgconfig";
 把 go 卸载了.重装.  
 还是 jpeg-turbo 安装的有问题.再找吧.卧槽的.❌ 
 
+----------Sep 2, 2018-----------
+
+Installation as [https://github.com/openai/universe-starter-agent/blob/master/README.md](https://github.com/openai/universe-starter-agent/blob/master/README.md) shows:
+
+```text
+conda create --name universe-starter-agent python=3.5  ✅
+source activate universe-starter-agent   ✅
+
+brew install tmux htop cmake golang libjpeg-turbo     ✅[1] # On Linux use sudo apt-get install -y tmux htop cmake golang libjpeg-dev
+
+pip install "gym[atari]"   ✅
+pip install universe
+pip install six
+pip install tensorflow
+conda install -y -c https://conda.binstar.org/menpo opencv3
+conda install -y numpy
+conda install -y scipy
+```
+
+  
+\[1\] You may wish to add the GOROOT-based install location to your PATH:  
+export PATH=$PATH:/Users/menghaw1/Homebrew/opt/go/libexec/bin
+
 ### ➡ Installation for ubuntu
 
 今天尝试在ubuntu上安装一下:  

@@ -1,10 +1,16 @@
 ---
-description: 与编程相关的知识记录
+description: relate to Coding
 ---
 
 # Python
 
-## 常用函数
+```text
+#查看python位数
+import platform   
+platform.architecture()
+```
+
+## Functions
 
 * `assert`
 
@@ -22,7 +28,7 @@ description: 与编程相关的知识记录
 
   ​
 
-## 一些库
+## Library
 
 * `shutil` :高层次文件操作工具
 
@@ -59,8 +65,6 @@ description: 与编程相关的知识记录
 
 ```text
 ​
-•
-​
 ## 零散知识
 * python 中小括号代表元组;中括号代表列表;大括号代表字典.
 * 引用同级文件夹下的 py 文档
@@ -95,7 +99,7 @@ from <文件夹>.<py文件> import <模块>
 
   在勒种的定义实例方法时要加一个 self 参数.
 
-### 有关 matplotlib 画图
+### matplotlib
 
 * 绘制多个独立窗口图表为不同窗口图标起不同名字,为里添加内容.并在程序最终统一显示,即刻绘制多个独立窗口表格
 
@@ -124,13 +128,15 @@ plt.savefig('PATH and name.jpg')
 plt.show
 ```
 
-## 数学知识记录
+## Mathematics
 
 * 方差 variance; 标准差 standard deviation; 均方误差 MSE\(mean squared error\); 均方根值 RMS;
 
   **方差**衡量离散程度 ; **标准差**又称为 **均方差**, 是方差的算术平方根,反映数据集的离散程度. 与方差类似, 只是方差有平方项,不如标准差直观.**均方误差**衡量 平均误差 ,是参数估计值与参数真值之差的平方的期望值.常用在信号处理的滤波算法中.表示此时观测值与估计值之间的偏差.**均方根值**也称为方均根值或有效值,先平方,再平均,然后开放.**均方根误差**是均方误差的算术平方根.
 
-### 双端队列
+### Dequeue
+
+double ended queue
 
 ```text
 from collections import deque  #头文件：
