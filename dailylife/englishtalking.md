@@ -123,7 +123,7 @@ GB gigabyte 千兆字节; KB kilobyte; TB terabyte ; MB megabyte.
 
 #### ➡ ➡ 枪支
 
-revolver /rɪ'vɑlvɚ/, 左轮手枪; pistol 手枪; rifle 步枪; ball,子弹; birdshot 鸟枪; storm the front 突破; global risk 保卫者; 潜伏者 black list; grenade /ɡrə'ned/手榴弹; flashbang 闪光弹; smoke 烟雾弹;
+revolver /rɪ'vɑlvɚ/, 左轮手枪; pistol 手枪; rifle 步枪; ball,子弹; birdshot 鸟枪; storm the front 突破; global risk 保卫者; 潜伏者 black list; grenade /ɡrə'ned/手榴弹; flashbang 闪光弹; smoke 烟雾弹; clan 部落.
 
 ### ➡ 房屋
 
