@@ -9,7 +9,7 @@
 * [My Note 📋](note/README.md)
   * [Meeting Jul 27, 2018](note/meeting-jul-27-2018.md)
 * [Tools Integration 🔧](tools-integration/README.md)
-  * [RLPlatform](tools-integration/platform.md)
+  * [RLSimulators](tools-integration/platform.md)
   * [Shell](tools-integration/shell.md)
   * [TensorFlow](tools-integration/tensorflow.md)
   * [Python](tools-integration/python.md)

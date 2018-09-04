@@ -2,9 +2,9 @@
 description: RL testbeds integration
 ---
 
-# RLPlatform
+# RLSimulators
 
-## Universe 🔯
+## Universe 🌀
 
 > euclidean \[/ju:'klidiən/\] 欧几里何; unstructured outdoor environments 不规则的户外环境; geometry 几何学; geography 地理学; coarse 粗糙的;rectified 改正的;stereo 立体的,立体声的,立体,立体声; collaborate 合作 v ; integrate 整合 vt ; validate 确认,使生效, 验证. Grant us permission 授予许可; archive 存档.; hub 中心;
 
@@ -157,11 +157,67 @@ export PATH=$PATH:/Users/menghaw1/Homebrew/opt/go/libexec/bin
 今天尝试在ubuntu上安装一下:  
 
 
-## Gym 🔯
+## RoboSchool🌀
+
+### ➡ intro
+
+We continue to recommend the use of roboschool1 Hopper, Ant, Humanoid and Flagrun for evaluation and testing of algorithms. If you have fixes to make installation easier we'll be happy to merge it. We'll have more to share about roboschool2 in a while. Physical simulation.
+
+{% embed data="{\"url\":\"https://blog.openai.com/roboschool/\",\"type\":\"link\",\"title\":\"Roboschool\",\"description\":\"We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.    Your browser does not support the video tag. Three control policies running on three different robots, racing each other in Roboschool. You can re-enact this scene by running agentzoo/demorace1.py. Each time you run the script,\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blog.openai.com/assets/images/favicon/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blog.openai.com/assets/images/opengraph/research/cyan.jpg?v=a52c934624\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"caption\":\"Blog\"}" %}
+
+Roboschool is a long-term project to create simulations useful for research. The roadmap is as follows:
+
+1. Replicate Gym MuJoCo environments.
+2. Take a step away from trajectory-centric fragile MuJoCo tasks.
+3. Explore multiplayer games.
+4. Create tasks with camera RGB image and joints in a tuple.
+5. Teach robots to follow commands, including verbal commands.
+
+  
+The list of Roboschool environments is as follows:
+
+* RoboschoolInvertedPendulum-v0
+* RoboschoolInvertedPendulumSwingup-v0
+* RoboschoolInvertedDoublePendulum-v0
+* RoboschoolReacher-v0
+* RoboschoolHopper-v0
+* RoboschoolWalker2d-v0
+* RoboschoolHalfCheetah-v0
+* RoboschoolAnt-v0
+* RoboschoolHumanoid-v0
+* RoboschoolHumanoidFlagrun-v0
+* RoboschoolHumanoidFlagrunHarder-v0
+* RoboschoolPong-v0
+
+To obtain this list: `import roboschool, gym; print("\n".join(['- ' + spec.id for spec in gym.envs.registry.all() if spec.id.startswith('Roboschool')]))`
+
+Agent Zoo  
+We have provided a number of pre-trained agents in the `agent_zoo` directory.
+
+To see a humanoid run towards a random varying target:
+
+```text
+python $ROBOSCHOOL_PATH/agent_zoo/RoboschoolHumanoidFlagrun_v0_2017may.py
+```
+
+To see three agents in a race:
+
+```text
+python $ROBOSCHOOL_PATH/agent_zoo/demo_race2.py
+```
+
+### ➡ Installation for Mac
+
+2018年09月04日10:57:15     
+installed it in the py35 virtual conda-env. gym also in this env.  
+meet this error: [https://github.com/openai/roboschool/issues/47](https://github.com/openai/roboschool/issues/47)  cannot solve.  
+安装 qt 与 gcc 中...; 之后把 qt 路径加进去.在试试吧... 唉,擦得.
+
+## Gym 🌀
 
 ### ➡ Intro
 
-Gym 的各种环境在这里 [https://gym.openai.com/envs](https://link.jianshu.com/?t=https%3A%2F%2Fgym.openai.com%2Fenvs)  
+Gym blog: [https://gym.openai.com/envs](https://link.jianshu.com/?t=https%3A%2F%2Fgym.openai.com%2Fenvs)  
 环境包括: Atari, Box2D, Classic control, MuJoCo, Robotics, Toy text.
 
 * 使用环境
@@ -249,7 +305,7 @@ Gym 的各种环境在这里 [https://gym.openai.com/envs](https://link.jianshu.
 
   后面的参数原则上来说可以不必要写。
 
-## ​Gazebo 🔯
+## ​Gazebo 🌀
 
 bash 文档的代码相当于都执行在终端上
 
