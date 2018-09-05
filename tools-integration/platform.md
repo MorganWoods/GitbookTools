@@ -4,6 +4,8 @@ description: RL testbeds integration
 
 # RLSimulators
 
+> 除了 gym 之外没有一个成功安装的. 妈的.....气死我了.
+
 ## Universe 🌀
 
 > euclidean \[/ju:'klidiən/\] 欧几里何; unstructured outdoor environments 不规则的户外环境; geometry 几何学; geography 地理学; coarse 粗糙的;rectified 改正的;stereo 立体的,立体声的,立体,立体声; collaborate 合作 v ; integrate 整合 vt ; validate 确认,使生效, 验证. Grant us permission 授予许可; archive 存档.; hub 中心;
@@ -213,7 +215,8 @@ installed it in the py35 virtual conda-env. gym also in this env.
 meet this error: [https://github.com/openai/roboschool/issues/47](https://github.com/openai/roboschool/issues/47)  cannot solve.  
 安装 qt 与 gcc 中...; 之后把 qt 路径加进去.在试试吧... 唉,擦得.  
 2018年09月05日09:03:48  
-QT5的 directory: /Users/menghaw1/Homebrew/opt/qt/lib/pkgconfig
+QT5的 directory: /Users/menghaw1/Homebrew/opt/qt/lib/pkgconfig   
+🚫.sucks! 愁死我了,妈的.
 
 ## Gym 🌀
 
@@ -317,7 +320,7 @@ bash 文档的代码相当于都执行在终端上
 
 Rospack find packagename
 
-## Turtlebot3 🔯
+## Turtlebot3 🌀
 
 remotePC ip : 192.168.43.245        10.100.34.151                   MASTER  
 Turtlebot ip: 192.168.43.166           10.100.42.143   53.19     HOSTname  

@@ -1,5 +1,5 @@
 ---
-description: operation in Shell
+description: operations in Shell
 ---
 
 # Shell
@@ -614,14 +614,18 @@ libjpeg-turbo, turbo 是涡轮机的意思; 是 ligjpeg 的一个复刻;它采�
 
  是一个快速的 vnc driver, go 语言; vnc:可能是 virtual network console.
 
-### ➡ commands form.
+### ➡ commands form
 
 * 横线 - 与 --
 
   - 与 -- 是两种不同的命令行选项风格,前者是传统 Unix 风格,后者是 GNU 风格; - 一般是选项 options, 如 横线后加单独字母:   -a 是 all, -c 是 command, -f 表示 file, -V 表示 version. 多个选项可以连写;  
-  由于单独字母数量有限不够用,于是有了后来的 GNU 风格完善; 使用 -- 作为前缀加个单词: --version, --all, 这些选项自己的参数可以放在后面用空格或=隔开,如「--file foobar.out」等价于「--file=foobar.out」。这种GNU风格的选项常被称之为『长选项』（Long Options），而Unix风格的为『短选项』（Short Options）。通常来说短选项都有与之对应的长选项，如「-a，--all」、「-V，--version」。  
+  由于单独字母数量有限不够用,于是有了后来的 GNU 风格完善; 使用 -- 作为前缀加个单词: --version, --all, 这些选项自己的参数可以放在后面用空格或=隔开,如「--file foobar.out」等价于「--file=foobar.out」。这种GNU风格的选项常被称之为『长选项』（Long Options），而Unix风格的为『短选项』（Short Options）。通常来说短选项都有与之对应的长选项，如「-a，--all」、「-V，--version」。
 
-## Editor ✡️
+### ➡ boost python
+
+是boost 库的一部分.随着 boost 一起安装,实现 c++ 和 python 代码交互.
+
+## Editor 🌀
 
 ### ➡ Vim
 

@@ -33,13 +33,13 @@ I was day dreaming earlier.
 
 
 
-## 类别 ✡️
+## 类别 🌀
 
 ### ➡ symbol, sign ,number
 
 #### ➡ ➡ 生活符号 - Purr
 
-star sign \* ; at sign @;     **period/full stop 句号;**      number sign, pound sign, hashtag\(推特话题\)  \# ;     **comma 逗号**;      question mark 问号;      **exclamation 惊叹号**;      arrow 箭头;      and ＆;      **underscore 下划线**;      **hyphen - 连字符或中文的分号** ;      percent;      dollar sign 美元符号$ ;      **/ slash \ back slash**;      **vertical bar \|** ; **round bracket/parenthesis 圆括号; square bracket 中括号; curly bracket 大括号**; 左括号 open .. bracket , close 右括号;           angle bracket &lt; &gt; ;           less-than sign 小于号;           greater-than sign 大于号;      plus , minus , multiplication, equals ; **quotation mark**/ double quotation marks 引号/双引号;      apostrophe It's 中间那个缩写号,或叫single quotation mark; ****          **tilde**, **swung dash 波浪线 dash 是破折号**; 插入箭头 caret 像这个符号^;      **colon 冒号;**      **semi-colon 分号**; 
+star sign \* ; at sign @;     **period/full stop 句号;**      number sign, pound sign, hashtag\(推特话题\)  \# ;     **comma 逗号**;      question mark 问号;      **exclamation 惊叹号**;      arrow 箭头;      and ＆;      **underscore 下划线**;      **hyphen - 连字符或中文的分号** ;      percent;      dollar sign 美元符号$ ;      **/ slash \ back slash**;      **vertical bar \|** ; **🌀 round bracket/parenthesis 圆括号; square bracket 中括号; curly bracket 大括号**; 左括号 open .. bracket , close 右括号;           angle bracket &lt; &gt; ;           less-than sign 小于号;           greater-than sign 大于号;      plus , minus , multiplication, equals ; **quotation mark**/ double quotation marks 引号/双引号;      apostrophe It's 中间那个缩写号,或叫single quotation mark; ****          **tilde**, **swung dash 波浪线 dash 是破折号**; 插入箭头 caret 像这个符号^;      **colon 冒号;**      **semi-colon 分号**; 
 
 #### ➡ ➡ 数学符号
 
@@ -267,19 +267,19 @@ living cost 生活成本; **standard of living 生活水平;** intersection 交�
 
  **co-partnership company** 或 joint venture 合资公司;  academic/banking/medical/lending/public institution 学术,金融,医疗,信贷,公众,机构; enterprise 企业;  **creation** 创作,作品,产物; punish 惩罚; penalty 处罚; official 行政官员, 官方的,正式的; accessions tax 财产增值税; additional tax 附加税; added value tax 增值税; after tax 税后;amusement tax 娱乐税; avoidance of tax 逃税; bonus tax 奖金税; beverage tax 奖金税; business profit tax 营业利润税; 
 
-### 其他
+### ➡ 其他
 
 阳光浴 sunbath; strange objects 陌生物体; **比例 proportion** ; zoom in 放大\(距离更近了\), zoom out 缩小\(距离更远了\)
 
 refer to 指的是; raise need direct object;  raise eyebrows, raise taxes;
 
-### 看病
+### ➡ 看病
 
 公立医院: public hospital; 私立医院 proprietary hospital; **unusually tired** 反常的疲倦; pain 疼, painful 疼的. jaw 下巴; bite down 咬东西; gums are red and swollen 牙床红肿; swelling 肿胀; sore 疼痛的; urgent 紧急的; make an appointment to see doctor; roll up your sleeve 卷袖子; symptoms 症状; sore throat 喉咙痛; rash 疹子; need stiches 需要缝针; give you an injection 给你打针; joints are aching 关节痛; constipated 便秘; urine sample 尿样; lump 肿块; in a lot of pain 感觉很痛; got a pain in my .. ;back 背部; chest 胸口; prescription 处方药; pulled a muscle in my leg 肌肉拉伤; asthmatic 哮喘; diabetic 糖尿病; see a specialist 专科医生; I've got very little energy, 四肢乏力; difficulty sleeping 很难入睡;
 
 buck teeth 龅牙; braces 牙套; teeth cleaned 洗牙; floss 压线清理; gum bleeding 牙床出血; fill a cavity 补牙; flase teeth, 假牙; gap 牙缝;
 
-### 性格 Character structure
+### ➡ 性格 Character structure
 
 independent; outgoing;active;able有才干的; **adaptable 适应性强的**; active 活跃的; aggressive 有进取心的; ambitious;amiable 和蔼可亲的; capable 有能力的; careful 仔细的; creative 富有创造力的; **dedicated 奉献精神的**; **dependable 可靠的;** cooperative 合作精神的; **dutiful 尽职的**; efficient 有效率的; grank 真诚的; **generous 宽宏大量的**; gentle 有礼貌的; impartial 公正的; intelligent 理解力强的; logical;methodical 有方法的; steady 踏实的; systematic 有系统的; **purposeful 意志力强的**; sweet tempered 性格温和的;  
 **be eager for 渴望**;
@@ -417,7 +417,13 @@ the answer is zero. 白忙活了
 
 ### ➡Some tips
 
-* Ysis **Stop treating yourself as a student**. 别上来就说自己英语不好. step up ,进步; carry on 继续; boost confidence; prevent 阻碍;
+* Ysis  
+  **Stop treating yourself as a student**. 别上来就说自己英语不好.  
+  step up ,进步; carry on 继续; boost confidence; prevent 阻碍;  
+  词汇 tips 
+
+  弄个生词本; 同时查他的同义词; take stock 注意周围的东西都咋说,不会的记下来; dig deeper 新闻,采访等 深入的话题; make connection to 1st language; deconstruction words 解构词汇; 拓展长得像的词; 新词 app-dictionary.com; 对话时意识用新词说; 保持好奇心
+
 * Crown English
 
   **10 tips**
@@ -442,6 +448,14 @@ the answer is zero. 白忙活了
   手机等调成英文; 看美剧得三遍1全无字幕2英文字幕3中英字幕;
 
 * **thinking in english** - Gabby -do small daily activities in english; -listen to more english this doesn't even have to take up more of your time. immersive experience 沉浸式经历; podcast 播客; listening english in the background while you are doing the work that doesn't require intense focus; -stop learning exclusively through translation; -stop using bilingual dic, using monolingual dic. -label environment object. -talk to yourself.
+* describe life
+
+  叙述自己的生活:
+
+  alarm aoes off ; in the morning; get out of bed 起床; go downstairs; go to the toilet; have some breakfast; brush teeth; take a shower; comb hair 梳头; get dressed 整理仪表; put on some makeup 女士化妆; shave face 刮胡子; go to work / get off work 上下班; catch bus 赶公交; buy groceries 买菜; cook dinner; set the table 摆桌子; clear table 清理桌子; take out the trash 倒垃圾; go out with/ hang out with friends; sleep late/ in 是顺懒觉的意思; oversleep 睡过头; smoke cigarettes 吸烟;
+
+  question mark 问号; mephasis 强调 stress;  
+  ask for permission: can I , Could I, May I. May 最礼貌.
 
 ## Maaxter
 
@@ -551,6 +565,248 @@ the answer is zero. 白忙活了
 * confuse v , confusion n.
 * **express opinion 表达观点**
 * 生气\(渐强\):  whatever 无所谓; seriously? ; 
+
+FREE DOWNLOAD550种句子开头方法免费下载  
+50 Most Common Ways to Start a Sentence in English  
+50种常用来为英语句子开头的方法  
+Questions/问句:  
+ 1. Are you sure...?Are you sure you can finish your work on time?  
+1.你确定... 吗?你确定你能按时完成你的工作吗?  
+2. Doyouhave...?Doyouhaveanychildren?  
+2.你有... 吗?你有孩子吗?  
+3. Do you mind...?/Would you mind...?Do you mind giving me your Wechat ID?  
+3.你介意... 吗?/ 你是否介意...?你介意给我你的微信账号吗?
+
+4. Do you feel like...?Do you feel like pizza tonight?  
+4.你想... 吗?你今晚想吃比萨饼吗?
+
+5. Doyouknowwhere...?/Doyouknowa...?Doyouknowagooddoctor?
+
+5. 请问你知道哪里...? / 请问你知道一位...?请问你知道一位好医生吗?
+
+6. Shouldn’twe/I...?Shouldn’twebookourticketsearly?
+
+6.我们/我不应该... 吗?我们不应该早点预订机票吗?
+
+7. Haveyouever...?Haveyoueverbeeninadangeroussituation?
+
+7.你是否曾经...? 你是否曾经有遇过危险的情况?
+
+8. Howabout...?HowaboutyouandIgetdinnertomorrow?
+
+8.那... 怎么样? 那，你和我明天一起共度晚餐怎么样?
+
+9. Howcome...?HowcomeIalwayshavetopaythebill?
+
+9.为何...?为何我总是得付帐?
+
+10.How long does it take.../How long will it take? How long will it take to go to the airport?
+
+10.大约需要多长的时间...?需要花多长的时间?大约需要多长的时间才能抵达到机场 呢?
+
+11. How often...? How often do you go to the dentist?
+
+11.你多常...? 你多常去看一次牙医?
+
+12.What’s the matter with...?/What’s wrong with...? What’s the matter with your friend?
+
+12.你的... 怎么了?/ 你的... 有什么问题吗?你的朋友怎么了?
+
+13.What’s your favorite...? What’s your favorite song?
+
+13. 你最喜欢... 是什么?你最喜欢的歌是什么?
+
+14.Why not...?/Why don’t you...? Why not \(don’t you\) buy it online?
+
+14. 为什么不...?/ 你为什么不要...?为什么不在网上购买呢?你为什么不要在网上购买呢?
+
+15.Would you like...? Would you like something to drink?
+
+15. 你想要... 吗?你想要喝点什么吗?
+
+Sentences/句子:  
+ 16. As far as... As far as I know, she doesn’t like him.  
+ 16. 据我... 据我所知，她不喜欢他。  
+ 17. As you \(may\) know... As you know, I really hate bitter melon.
+
+17. 就如你\(也许\)知道的... 就如你知道的，我真的很讨厌苦瓜。
+
+18.Compared to... Compared to bitter melon, even broccoli tastes good.
+
+18. 相比起... 相比起苦瓜，就连西兰花都比较好吃。
+
+19.For all I know... For all I know he could be on Mars.
+
+19. 就我所知... 就我所知，他可能在火星上。
+
+20.I bet... I bet it’s going to rain today.
+
+20. 我敢打赌... 我敢打赌今天会下雨。
+
+21.I can’t wait to... I can’t wait to get my paycheck.
+
+21. 我迫不及待要... 我迫不及待要拿到我的薪水。
+
+22.I feel like.../It seems to me... It seems to me now is a good time to buy a house.
+
+22. 我觉得... / 在我看来... 在我看来，现在是买房子的好时机。
+
+23.I just realized... I just realized that I never confirmed our appointment.
+
+23. 我刚刚才意识到... 我刚刚才意识到，我从没有确定过我们的约会。
+
+24.I’d like \(you\) to... I’d like to leave soon.
+
+24. 我想要\(你\)... 我想要早一点离开。
+
+25. I hate to say this but... I hate to say this but ‘blue’ is not a good color on you.
+
+25. 我讨厌这样说，但是... 我讨厌这样说，但是 '蓝色' 不是适合你的颜色
+
+26.I have \(had\) no idea... I have no idea where the subway is.
+
+26. 我不知道... 我不知道地铁在哪里。
+
+27.I have got to... I have got to find a new apartment by Friday.
+
+27. 我必须在... 我必须在星期五之前找到一间新公寓。
+
+28.If you think about it... If you think about it, money isn’t everything in life.
+
+28. 如果你仔细想想... 如果你仔细想想，金钱不是生活中所有的一切。
+
+29.I’ll let you know... I’ll let you know when I’m free today.
+
+29. 我会让你知道... 我会让你知道一旦我今天有空的时候。
+
+30.I’m afraid... I’m afraid he’s too busy right now.
+
+30. 我恐怕... 我恐怕他现在太忙了。
+
+31.I’m looking forward to... I’m looking forward to the Spring Festival holiday.
+
+31. 我很期待... 我很期待春节长假。
+
+32.I’m sorry but... I’m sorry but I can’t join you for dinner.
+
+32. 我很对不起，但是... 我很对不起，但是我不能和你一起吃晚餐。
+
+33.I’m thinking about... I’m thinking about ordering a birthday cake for her.
+
+33. 我正在考虑... 我正在考虑为她订购一个生日蛋糕。
+
+34.It’s too bad that... It’s too bad that he broke his leg.
+
+34. 我很遗憾... 我很遗憾他摔断了腿。
+
+35.It’s not that...it’s/but... It’s not that he’s lazy, it’s that he just doesn’t care.
+
+35. 不是因为... 而是因为/但是... 不是因为他懒惰，而是因为他不在乎。
+
+36.I have been... I have been worried about her all day.
+
+36. 我都在... 我都在一整天里，担心着她。
+
+37. I would rather...than... I would rather visit Hawaii than Los Angeles.
+
+37. 我宁愿... 也不愿... 我宁愿去参观夏威夷也不愿去洛杉矶。
+
+38.Let me know if/who/what/where/when/why/how... Let me know if you’re free tomorrow.
+
+38. 让我知道是否/谁/什么/哪里/何时/为什么/如何... 让我知道你是否明天有空。
+
+39.No wonder... No wonder your English is so good!
+
+39. 难怪... 难怪你的英语这么好!
+
+40.No offense, but... No offense, but your pronunciation needs improvement.
+
+40. 无意冒犯，但是... 无意冒犯，但是你的发音需要改进。
+
+41.Once you... Once you start smoking, it’s hard to stop.
+
+41. 一旦你... 一旦你开始吸烟，就很难停下来。
+
+42.Speaking of... Speaking of love, when are you going to get married?
+
+42. 说到... 说到爱情，你打算什么时候结婚?
+
+43. Thanks to... Thanks to my boss, I’ll get a nice year-end bonus.
+
+43. 多亏了... 多亏了我的老板，我才能得到一份不错的年终奖金。
+
+44. Thank you for... Thank you for helping me move last week, I know it was not convenient for you.
+
+44. 谢谢你... 谢谢你上周帮我搬家，我知道这带给你很多不便。
+
+45. The more...the more... The more money you have, the more problems you’ll have.
+
+45. 越多... 就会越多... 你的钱越多，你的问题就会越多。
+
+46. There is nothing as...as... There is nothing as difficult as learning Chinese.
+
+46. 没有什么比... 更... 没有什么比学习中文更困难了。
+
+47. There is nothing I love more than... \(like better than\)... There is nothing I love more than sitting on a beach and reading a book.
+
+47. 我最爱 \(喜欢\) 的莫过于... 我最爱的莫过于坐在沙滩上看书了。
+
+48. To be honest... To be honest, I don’t really like watching horror movies.
+
+48. 说实话... 说实话，我真的不是很喜欢看恐怖电影。
+
+49.We’d better... We’d better leave before 10pm, otherwise the subway will be closed.\
+
+49. 我们最好... 我们最好在10点晚上之前离开，否则地铁将被关闭了。
+
+50.We might \(may\) as well... We might as well take a taxi. No one wants to bike in the rain.
+
+50. 我们不妨... 我们不妨坐出租车去吧，没有人想在雨中骑自行车。
+
+10 BONUS Sentences!
+
+十个额外的奖励句子! 问句:
+
+1. Howdoyoulike...?HowdoyouliketheiPhoneX?
+
+1. 你觉得...怎么样?你觉得苹果手机十怎么样?  
+ 2. Iwonder\(if/what/where/when/why/how\)...?Iwonderwhytheserviceissoslow?
+
+2. 我想知道\(是否/何处/何时/为何/如何\)...?我想知道服务为什么这么慢?
+
+3. What do you mean...? What do you mean you can’t come?
+
+3. 你是什么意思? 你是什么意思，你不能来?
+
+4. Where can I...? Where can I find a bathroom?
+
+4. 我在哪里可以...? 我在哪里可以找到一间浴室?
+
+5. Who/What/Where/When/Why/How do you think...? How do you think they will like living in Beijing?
+
+5. 你认为谁/什么/在哪里/什么/为什么/怎么想?你认为他们会喜欢住在北京吗?
+
+句话:  
+ 1.I can’t say... I can’t say why she did it, but I think she will regret it.
+
+1.我不能说... 我不能说她为什么这么做，但我想她会后悔的。
+
+2. It’s up to... It’s up to the boss to choose.
+
+2. 这取决于... 这取决于老板选择。
+
+3. No matter what... No matter what, we will always be friends.
+
+3. 不管怎么样... 不管怎么样，我们永远都是朋友。
+
+4. When it comes to... When it comes to investing, you really need to talk to a professional.
+
+4. 当涉及到... 当涉及到投资，你真的需要与专业人士交谈。
+
+5. What I’m trying to say is... What I’m trying to say is that I think we should break up.
+
+5. 我想说的是... 我想说的是我觉得我们应该分手。  
+
 
 ##  jamesESL
 
