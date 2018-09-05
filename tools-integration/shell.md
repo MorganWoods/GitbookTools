@@ -1,5 +1,5 @@
 ---
-description: shell 工具操作
+description: operation in Shell
 ---
 
 # Shell
@@ -21,7 +21,7 @@ cd /System 表示转到跟目录下的System中，而cd System 表示转到当�
 .  #隐藏文件,在 gui 和 ls 下默认不显示,使用 ls -a 显示.
 ```
 
-* 常用 cmd
+* Normal commands
 
 ```ruby
 defaults writecom.apple.finder _FXShowPosixPathInTitle -boolYES 
@@ -51,7 +51,7 @@ which ..   显示路径 ⚽️
 .. version  显示版本 这个可能不对.
 ```
 
-* 卸载
+* uninstallation
 
   mac 下安装程序有两种dmg 和 pkg . 对于 dmg 直接在应用程序中删除, 但是 pkg 需要用命令删除.
 
@@ -87,7 +87,7 @@ brew cleanup 清楚所有软件的所有老版本
 brew cleanup [] 清楚指定软件老版本.
 ```
 
-## Ubuntu 🔯
+## Ubuntu 🌀
 
 * 我的ubuntu系统信息:
 
