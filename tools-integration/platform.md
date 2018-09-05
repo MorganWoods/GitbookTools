@@ -211,7 +211,9 @@ python $ROBOSCHOOL_PATH/agent_zoo/demo_race2.py
 2018年09月04日10:57:15     
 installed it in the py35 virtual conda-env. gym also in this env.  
 meet this error: [https://github.com/openai/roboschool/issues/47](https://github.com/openai/roboschool/issues/47)  cannot solve.  
-安装 qt 与 gcc 中...; 之后把 qt 路径加进去.在试试吧... 唉,擦得.
+安装 qt 与 gcc 中...; 之后把 qt 路径加进去.在试试吧... 唉,擦得.  
+2018年09月05日09:03:48  
+QT5的 directory: /Users/menghaw1/Homebrew/opt/qt/lib/pkgconfig
 
 ## Gym 🌀
 
