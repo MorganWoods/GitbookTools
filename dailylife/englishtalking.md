@@ -33,7 +33,7 @@ I was day dreaming earlier.
 
 
 
-## 类别 🌀
+## classification 🌀
 
 ### ➡ symbol, sign ,number
 
@@ -190,6 +190,10 @@ enrich spiritual world 精神世界 ;  /'spɪrɪtʃʊəl/
 ### ➡ 工作
 
 薪水 wage, salary; 补贴 subsidy, allowance; astronomers 天文学家;
+
+### ➡ Gym
+
+pull up 引体向上; push up 俯卧撑; sit up 仰卧起坐; bench press 卧推; deep squat 深蹲 ; dead lifting 硬拉; plank 平板支撑; lateral dumbell raise 侧平举;
 
 ### ➡ 吃饭
 

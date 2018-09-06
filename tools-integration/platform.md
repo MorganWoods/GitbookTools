@@ -6,6 +6,24 @@ description: RL testbeds integration
 
 > 除了 gym 之外没有一个成功安装的. 妈的.....气死我了.
 
+## Coach 🌀
+
+### ➡ Intro
+
+> [https://github.com/NervanaSystems/coach](https://github.com/NervanaSystems/coach)
+
+Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.
+
+It exposes a set of easy-to-use APIs for experimenting with new RL algorithms, and allows simple integration of new environments to solve. Basic RL components \(algorithms, environments, neural network architectures, exploration policies, ...\) are well decoupled, so that extending and reusing existing components is fairly painless.
+
+Training an agent to solve an environment is as easy as running:
+
+```text
+coach -p CartPole_DQN -r
+```
+
+Current version: release 0.10.0
+
 ## Universe 🌀
 
 > euclidean \[/ju:'klidiən/\] 欧几里何; unstructured outdoor environments 不规则的户外环境; geometry 几何学; geography 地理学; coarse 粗糙的;rectified 改正的;stereo 立体的,立体声的,立体,立体声; collaborate 合作 v ; integrate 整合 vt ; validate 确认,使生效, 验证. Grant us permission 授予许可; archive 存档.; hub 中心;
