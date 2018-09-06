@@ -6,6 +6,10 @@
 
 > 时间倒序 以后可以尝试用英文写日记. write in English!
 
+* 2018年09月06日10:12:38
+
+  曾经, 大学时, 是我的思想启蒙时期. 我曾怀疑很多,很多,并大量阅读,质疑.  我曾有很多想法, 对不公平的愤怒, 对社会现象的分析.  后来,我又一度否认当时的自己,认为那时候的自己不正常.  在成长的被洗礼下, 我放弃了质疑,随波逐流. 而现在, 我发现,那些启蒙的时光, 才是我自己. 并且那时候的想法, 多数是正确的. 当我有了一个正确的想法, 周围的环境持续的告诉我,那是错的. 有一天,自己还真就认同了... 我们这个世界...
+
 * 2018年8月25日00:04:45 I found every time I am writing diary is in my blue mood. yes, today I heard the radio, GuoLiang, Yewen etc these popular hosts hit my mind. I thought and missed my parents so much. My parents had a bad fate, suffering from the most miserable stuff in the world. I feel really sorry for them. I wanted to make a better life for them, but now, all is gone... My dad liked listening Guoliang help you choose restaurants. My mom liked Yewen has world for you. The both radio programs kept accompany with my whole childhood life. I also have a unique emotional tie for radio all the time. I love you, my great dad and great mom. You are the best friends in my life. There would never a better me like today without your help and pay out.
 * 2018年08月06日14:03:53
 
