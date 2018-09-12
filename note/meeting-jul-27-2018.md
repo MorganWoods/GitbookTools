@@ -1,10 +1,8 @@
----
-description: 语料预备
----
+# Meeting
 
-# Meeting Jul 27, 2018
+## Jul 27, 2018
 
-
+> discuss about journal with Alex.
 
 * 
   关于会议和期刊的时间
