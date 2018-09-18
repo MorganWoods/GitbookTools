@@ -143,26 +143,123 @@ Can I have a tour? 能看一下吗?
 
 > apartment words
 
-| 单词 | 意思 | 单词 | 意思 |
-| ---: | :--- | ---: | :--- |
-| Peephole | 猫眼 | Door knob | 门把手 |
-| swithch | 开关 | power outlet | 充电插口 |
-| thermostat | 调温器 | \(shut\) the blinds | \(关\)百叶窗 |
-| dimmer | 调光器 | smoke detector\(went off/beeping\) | 烟雾报警器\(响\) |
-| sprinkler | 洒水器 | remote control | 遥控器 |
-| faucet | 水龙头 | waste disposal | 水池下垃圾处理器 |
-| oven | 烤箱 | dish washer | 洗碗机 |
-| microwave | 微波炉 | refrigerator/frige/freezer | 冷冻/冷藏冰箱/冰柜 |
-| cabinet | 橱柜 | granite countertop | 大理石桌面  |
-| sink | 水池 | single/double vanity | 单/双人洗漱池 |
-| cabana | 遮阳棚 | fire extinguisher | 消防栓 |
-| hallway | 走廊 | hot tub | 温泉 |
-| arcade | 游戏厅 | water fountain | 喷泉 |
-| foosball | 桌上足球 | pool table | 台球桌 |
-|  |  | climbing wall | 攀岩墙 |
-|  |  | beach volleyball court | 沙滩排球场 |
-
-#### ➡ ➡ House-linguamarina
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:right">单词</th>
+      <th style="text-align:left">意思</th>
+      <th style="text-align:right">单词</th>
+      <th style="text-align:left">意思</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:right">Peephole</td>
+      <td style="text-align:left">猫眼</td>
+      <td style="text-align:right">Door knob</td>
+      <td style="text-align:left">门把手</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">swithch</td>
+      <td style="text-align:left">开关</td>
+      <td style="text-align:right">power outlet</td>
+      <td style="text-align:left">充电插口</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">thermostat</td>
+      <td style="text-align:left">调温器</td>
+      <td style="text-align:right">(shut) the blinds</td>
+      <td style="text-align:left">(关)百叶窗</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">dimmer</td>
+      <td style="text-align:left">调光器</td>
+      <td style="text-align:right">
+        <p>smoke detector</p>
+        <p>(went off/beeping)</p>
+      </td>
+      <td style="text-align:left">烟雾报警器(响)</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">sprinkler</td>
+      <td style="text-align:left">洒水器</td>
+      <td style="text-align:right">remote control</td>
+      <td style="text-align:left">遥控器</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">faucet</td>
+      <td style="text-align:left">水龙头</td>
+      <td style="text-align:right">waste disposal</td>
+      <td style="text-align:left">水池下垃圾处理器</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">oven</td>
+      <td style="text-align:left">烤箱</td>
+      <td style="text-align:right">dish washer</td>
+      <td style="text-align:left">洗碗机</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">microwave</td>
+      <td style="text-align:left">微波炉</td>
+      <td style="text-align:right">
+        <p>refrigerator/frige</p>
+        <p>/freezer</p>
+      </td>
+      <td style="text-align:left">
+        <p>冷冻/冷藏冰箱</p>
+        <p>/冰柜</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:right">cabinet</td>
+      <td style="text-align:left">橱柜</td>
+      <td style="text-align:right">granite countertop</td>
+      <td style="text-align:left">大理石桌面</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">sink</td>
+      <td style="text-align:left">水池</td>
+      <td style="text-align:right">single/double vanity</td>
+      <td style="text-align:left">单/双人洗漱池</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">cabana</td>
+      <td style="text-align:left">遮阳棚</td>
+      <td style="text-align:right">fire extinguisher</td>
+      <td style="text-align:left">消防栓</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">hallway</td>
+      <td style="text-align:left">走廊</td>
+      <td style="text-align:right">hot tub</td>
+      <td style="text-align:left">温泉</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">arcade</td>
+      <td style="text-align:left">游戏厅</td>
+      <td style="text-align:right">water fountain</td>
+      <td style="text-align:left">喷泉</td>
+    </tr>
+    <tr>
+      <td style="text-align:right">foosball</td>
+      <td style="text-align:left">桌上足球</td>
+      <td style="text-align:right">pool table</td>
+      <td style="text-align:left">台球桌</td>
+    </tr>
+    <tr>
+      <td style="text-align:right"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:right">climbing wall</td>
+      <td style="text-align:left">攀岩墙</td>
+    </tr>
+    <tr>
+      <td style="text-align:right"></td>
+      <td style="text-align:left"></td>
+      <td style="text-align:right">beach volleyball court</td>
+      <td style="text-align:left">沙滩排球场</td>
+    </tr>
+  </tbody>
+</table>#### ➡ ➡ House-linguamarina
 
 specificaly; pass by 经过; so **typical 典型**; beloved place; **standard level/style**; 
 
