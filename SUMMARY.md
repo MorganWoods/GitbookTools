@@ -16,5 +16,6 @@
   * [MarkDown](tools-integration/markdown.md)
   * [Latex](tools-integration/latex.md)
   * [Pytorch](tools-integration/pytorch.md)
-* [Untitled](untitled.md)
+* [Reading notes📓](reading-notes/README.md)
+  * [WillPower instinct](reading-notes/willpower-instinct.md)
 
