@@ -1,10 +1,16 @@
-# DiaryEssay
+---
+description: 'Some diaries, essays, inspirations, ideas, etc.'
+---
 
-日记与随笔日记灵感梦境整理过去的
+# DiaryEssay
 
 ## Diary🌀
 
-> 时间倒序 以后可以尝试用英文写日记. write in English!
+> writing in English from now! Listing in reverse chronological order from latest to earliest!
+
+* Oct. 10, 2018 night
+
+  This is a really meaningful day to me since I realized a important way to learning English. Let's talking the daily things. I was really frustrated since I cannot fully understand the contents when I discussed the research project with Emil who is master student in Aalto. He had a creative idea about playing cryptocurrency market using RL technique. I was really shamed since I have already stayed in Finland for 1 year but still be stupid when learning or takling. At the night, when I was taking shower, I rethought this troublesome problem. I found the reason. Why not thinking in english across the chinese mind. We could speak as my mind directly. This is really a big invention to me. I believe within a month, a huge difference will happen to me. Let's see. Shame make me brave; Be aware of shame then go forward. This is also a pressure for my future life. Thank you, Mr, Wu.
 
 * 2018年10月06日11:34:25
 

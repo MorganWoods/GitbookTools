@@ -183,7 +183,7 @@ export PATH=$PATH:/Users/menghaw1/Homebrew/opt/go/libexec/bin
 
 We continue to recommend the use of roboschool1 Hopper, Ant, Humanoid and Flagrun for evaluation and testing of algorithms. If you have fixes to make installation easier we'll be happy to merge it. We'll have more to share about roboschool2 in a while. Physical simulation.
 
-{% embed data="{\"url\":\"https://blog.openai.com/roboschool/\",\"type\":\"link\",\"title\":\"Roboschool\",\"description\":\"We are releasing Roboschool: open-source software for robot simulation, integrated with OpenAI Gym.    Your browser does not support the video tag. Three control policies running on three different robots, racing each other in Roboschool. You can re-enact this scene by running agentzoo/demorace1.py. Each time you run the script,\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blog.openai.com/assets/images/favicon/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blog.openai.com/assets/images/opengraph/research/cyan.jpg?v=a52c934624\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"caption\":\"Blog\"}" %}
+{% embed url="https://blog.openai.com/roboschool/" caption="Blog" %}
 
 Roboschool is a long-term project to create simulations useful for research. The roadmap is as follows:
 

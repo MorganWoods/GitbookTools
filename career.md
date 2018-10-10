@@ -44,7 +44,7 @@ Internship
 
 ## Silo AI
 
-{% embed data="{\"url\":\"https://silo.ai/research/\",\"type\":\"link\",\"title\":\"Research - Silo.AI\",\"description\":\"Silo.AI is a research and researcher driven organisation that values scientific efforts, be they published papers or internal research endeavours.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://silo.ai/wp-content/uploads/2018/04/cropped-site\_icon-1-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://silo.ai/wp-content/uploads/2018/05/silo\_logo.jpg\",\"width\":1251,\"height\":782,\"aspectRatio\":0.6250999200639489}}" %}
+{% embed url="https://silo.ai/research/" %}
 
 LOCATIONS: HELSINKI, TURKU & LONDON  
   
@@ -52,14 +52,14 @@ ML, NLP, CV, Stack developer; Solutions strategies; AI engineer; AI fellow; AI i
 
 ## FCAI
 
-{% embed data="{\"url\":\"http://www.fcai.fi/fcainews/2018/7/2/postdoc-and-doctoral-student-positions-in-machine-learning\",\"type\":\"link\",\"title\":\"Postdoc and Doctoral student positions in Machine Learning\",\"description\":\"Finnish Center for Artificial Intelligence \(FCAI\) is searching for exceptional doctoral students and postdoctoral researchers to tackle complex and exciting problems in the field of machine learning. Come and join us to create the next generation of AI that is data-efficient, trustworthy and underst\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5a1d264e24a694106deeb3e2/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5a2a4beb41920248ef8d37e7/1512721388703/FCAI\_Social.png?format=1000w\",\"width\":1000,\"height\":440,\"aspectRatio\":0.44}}" %}
+{% embed url="http://www.fcai.fi/fcainews/2018/7/2/postdoc-and-doctoral-student-positions-in-machine-learning" %}
 
 finnish center for AI.  
 Our goal is Real AI: artificial intelligence that is able to work with humans and augment human capabilities to operate in a complex world. To ensure the sustainable, long-term development of Finnish industry and society, the Real AI needs to be built with Real People in the Real World. To achieve this, FCAI and Finland need to be an integral part of the international community.
 
 Research Programs
 
-{% embed data="{\"url\":\"http://fcai.fi/research/\",\"type\":\"link\",\"title\":\"Research\",\"description\":\"RESEARCH\",\"icon\":{\"type\":\"icon\",\"url\":\"https://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5a1d264e24a694106deeb3e2/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://static1.squarespace.com/static/59d528238419c2639782a4eb/t/5a2a4beb41920248ef8d37e7/1512721388703/FCAI\_Social.png?format=1000w\",\"width\":1000,\"height\":440,\"aspectRatio\":0.44}}" %}
+{% embed url="http://fcai.fi/research/" %}
 
 👇是这里的一个老师
 
@@ -73,7 +73,7 @@ Responsible coordinator: CEO [Harri Valpola](https://thecuriousaicompany.com/) \
 
 ## Glassdoor
 
-{% embed data="{\"url\":\"https://www.glassdoor.com/Job/helsinki-machine-learning-jobs-SRCH\_IL.0,8\_IC2440450\_KO9,25.htm\",\"type\":\"link\",\"title\":\"Help Us Keep Glassdoor Safe\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.glassdoor.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://www.glassdoor.com/Job/helsinki-machine-learning-jobs-SRCH\_IL.0,8\_IC2440450\_KO9,25.htm" %}
 
 ## Nan
 
