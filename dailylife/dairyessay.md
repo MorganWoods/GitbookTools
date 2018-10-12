@@ -8,6 +8,10 @@ description: 'Some diaries, essays, inspirations, ideas, etc.'
 
 > writing in English from now! Listing in reverse chronological order from latest to earliest!
 
+* Oct, 12, night
+
+  I really like the happy atmosphere from a family of mine in future. So, the 1st thing I should do is build a stable family with my girlfriend. I need a job at here, before it I need to graduate and get the degree. So many things need to be done. Sometime I feel really stressful when I thinking about it. Let's talk about the dream life in my mind. We have time to do creative things together, such as painting, cooking, dancing, watching movies, travelling, visiting families, etc. Here I take note about some points. I will take the digital painting board, my guitar, buy a camera with stabilizer, buy camera frame. and so on. I hope we could make it in a short future.
+
 * Oct. 10, 2018 night
 
   This is a really meaningful day to me since I realized a important way to learning English. Let's talking the daily things. I was really frustrated since I cannot fully understand the contents when I discussed the research project with Emil who is master student in Aalto. He had a creative idea about playing cryptocurrency market using RL technique. I was really shamed since I have already stayed in Finland for 1 year but still be stupid when learning or takling. At the night, when I was taking shower, I rethought this troublesome problem. I found the reason. Why not thinking in english across the chinese mind. We could speak as my mind directly. This is really a big invention to me. I believe within a month, a huge difference will happen to me. Let's see. Shame make me brave; Be aware of shame then go forward. This is also a pressure for my future life. Thank you, Mr, Wu.
