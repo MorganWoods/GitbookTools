@@ -1,8 +1,35 @@
 ---
-description: 接下来把所有内容按类别归类分成三级目录
+description: 'Next,'
 ---
 
 # EnglishTalking
+
+### thinking in english
+
+🌀
+
+1. start with simple vocabulary
+
+   Looking around the room in front of you, thinking the english words only.
+
+   \(shaver, medicine package, bottle, thermos hydration bottle, blister pack medicine,lens or lenses, radiator, power strip/ extension board/extension cord, ketchup, lip lotion, table lamp,\)
+
+2. move onto simple sentences
+3. plan your day in English
+
+   Think about everything that you need to do that day in English. 
+
+4. think in conversation
+
+🌀
+
+Study with triggers.
+
+🌀
+
+make sentences in your head. prepare sentences for conversations. recap your day.
+
+
 
 -RD
 
