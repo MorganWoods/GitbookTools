@@ -4,6 +4,18 @@ description: 'Next,'
 
 # EnglishTalking
 
+## Collection of sentences
+
+Some good sentences I like.
+
+The weather could not have been more perfect.
+
+,which has a resident population of sea lions.
+
+so I instantly thought that it was going to be a great white shark.
+
+It actually just made an excellent day even better.
+
 ### thinking in english
 
 🌀
