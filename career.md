@@ -1,8 +1,20 @@
 ---
-description: Job seeking
+description: Job seeking information's collection
 ---
 
 # Career 💰
+
+## Experience for applying
+
+> from the YTBer
+
+1, decide your path; applied AI or research;
+
+2, build your AI brand, Kaggle, numerai, have 3-5 github project. create own website,
+
+3, build ur network, help other people , linkedin.
+
+4, interview. practice.
 
 ## LeetCode
 
