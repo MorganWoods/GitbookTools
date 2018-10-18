@@ -8,6 +8,10 @@ description: 'Some diaries, essays, inspirations, ideas, etc.'
 
 > writing in English from now! Listing in reverse chronological order from latest to earliest!
 
+* Oct, 18, night
+
+  Everything is OK, forward  to your deream
+
 * Oct, 12, night
 
   I really like the happy atmosphere from a family of mine in future. So, the 1st thing I should do is build a stable family with my girlfriend. I need a job at here, before it I need to graduate and get the degree. So many things need to be done. Sometime I feel really stressful when I thinking about it. Let's talk about the dream life in my mind. We have time to do creative things together, such as painting, cooking, dancing, watching movies, travelling, visiting families, etc. Here I take note about some points. I will take the digital painting board, my guitar, buy a camera with stabilizer, buy camera frame. and so on. I hope we could make it in a short future.
