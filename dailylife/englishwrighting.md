@@ -1,6 +1,6 @@
 # EnglishWrighting
 
-### 英语写作记录\(论文中摘录的\) {#ying-yu-xie-zuo-ji-lu-lun-wen-zhong-zhai-lu-de}
+### 英语写作记录\(论文中摘录的\) <a id="ying-yu-xie-zuo-ji-lu-lun-wen-zhong-zhai-lu-de"></a>
 
 * 在这个公式中: In this formulation, ...
 * 公式中 A 是: ,where the A mearns ...
@@ -12,7 +12,7 @@
 
   ◆不放逗號時，however 定義是無論如何，不管怎樣 \(in whatever manner, to whatever extent, or no matter how: However carefully I explained, she still didn’t understand.\)。
 
-### 论文结构归纳总结 {#lun-wen-jie-gou-gui-na-zong-jie}
+### 论文结构归纳总结 <a id="lun-wen-jie-gou-gui-na-zong-jie"></a>
 
 > 从 Dueling 那篇文章归纳出来的. 不使用这个, 使用斯坦福大学的结构. 在 RLKnowledge 文档中.
 

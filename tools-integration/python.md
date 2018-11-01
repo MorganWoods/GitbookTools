@@ -1,11 +1,13 @@
 ---
-description: relate to Coding
+description: relate to Coding within python
 ---
 
 # Python
 
+## General 
+
 ```text
-#查看python位数
+#check python bit
 import platform   
 platform.architecture()
 ```
@@ -28,11 +30,11 @@ platform.architecture()
 
   ​
 
-## Library
+## Library 🌀
 
 * `shutil` :高层次文件操作工具
 
-### Numpy
+### ➡ Numpy
 
 * `np.newaxis` :增加一个维度.
 * `np.random.permutation(state_action.imdex)` 洗牌功能,打乱次序. index 与 columns 对应, index 是 row 的标签
@@ -99,11 +101,13 @@ from <文件夹>.<py文件> import <模块>
 
   在勒种的定义实例方法时要加一个 self 参数.
 
-### matplotlib
+### ➡ Matplotlib
 
-* 绘制多个独立窗口图表为不同窗口图标起不同名字,为里添加内容.并在程序最终统一显示,即刻绘制多个独立窗口表格
+![](../.gitbook/assets/image%20%282%29.png)
 
-```text
+* plot muti-figures , display them before ending.
+
+```python
 # figure1
 plt.figure('figure1')
 plt.plot(np.arange(len(self.qtarget_his)),self.qtarget_his,c='r',label='DQN Q eval')
@@ -116,23 +120,242 @@ plt.plot(np.arange(len(self.cost_his)), self.cost_his)
 plt.legend(loc='best')
 plt.ylabel('Cost')
 plt.xlabel('training steps')
-# 程序最后显示窗口
+# display
 plt.show()
 ```
 
-* 保存图表  
+* save figures
 
 ```text
 plt.plot()
 plt.savefig('PATH and name.jpg')
 plt.show
+
 ```
 
-## Mathematics
+#### ➡➡ Samples
 
-* 方差 variance; 标准差 standard deviation; 均方误差 MSE\(mean squared error\); 均方根值 RMS;
+> next parts from: [https://www.datascience.com/learn-data-science/tutorials/creating-data-visualizations-matplotlib-data-science-python](https://www.datascience.com/learn-data-science/tutorials/creating-data-visualizations-matplotlib-data-science-python)
 
-  **方差**衡量离散程度 ; **标准差**又称为 **均方差**, 是方差的算术平方根,反映数据集的离散程度. 与方差类似, 只是方差有平方项,不如标准差直观.**均方误差**衡量 平均误差 ,是参数估计值与参数真值之差的平方的期望值.常用在信号处理的滤波算法中.表示此时观测值与估计值之间的偏差.**均方根值**也称为方均根值或有效值,先平方,再平均,然后开放.**均方根误差**是均方误差的算术平方根.
+* scatter plot
+
+```python
+# Define a function to create the scatterplot. This makes it easy to
+# reuse code within and across notebooks
+def scatterplot(x_data, y_data, x_label, y_label, title):
+
+    # Create the plot object
+    _, ax = plt.subplots()
+
+    # Plot the data, set the size (s), color and transparency (alpha)
+    # of the points
+    ax.scatter(x_data, y_data, s = 30, color = '#539caf', alpha = 0.75)
+
+    # Label the axes and provide a title
+    ax.set_title(title)
+    ax.set_xlabel(x_label)
+    ax.set_ylabel(y_label)
+
+# Call the function to create plot
+scatterplot(x_data = daily_data['temp']
+            , y_data = daily_data['cnt']
+            , x_label = 'Normalized temperature (C)'
+            , y_label = 'Check outs'
+            , title = 'Number of Check Outs vs Temperature')
+```
+
+* line plot
+
+```python
+# Perform linear regression
+import statsmodels.api as sm
+from statsmodels.stats.outliers_influence import summary_table
+x = sm.add_constant(daily_data['temp'])
+y = daily_data['cnt']
+regr = sm.OLS(y, x)
+res = regr.fit()
+# Get fitted values from model to plot
+st, data, ss2 = summary_table(res, alpha=0.05)
+fitted_values = data[:,2]
+
+# Define a function for the line plot
+def lineplot(x_data, y_data, x_label, y_label, title):
+    # Create the plot object
+    _, ax = plt.subplots()
+
+    # Plot the best fit line, set the linewidth (lw), color and
+    # transparency (alpha) of the line
+    ax.plot(x_data, y_data, lw = 2, color = '#539caf', alpha = 1)
+
+    # Label the axes and provide a title
+    ax.set_title(title)
+    ax.set_xlabel(x_label)
+    ax.set_ylabel(y_label)
+
+# Call the function to create plot
+lineplot(x_data = daily_data['temp']
+         , y_data = fitted_values
+         , x_label = 'Normalized temperature (C)'
+         , y_label = 'Check outs'
+         , title = 'Line of Best Fit for Number of Check Outs vs Temperature')
+```
+
+* line plot with **confidence intervals**
+
+  We can take this analysis one step further and also visualize the 95% confidence intervals about our model. This will help communicate how well our model fits the data.  
+  confidence intervals: Confidence intervals are constructed at a confidence level, such as 95 %, selected by the user. What does this mean? It means that if the same population is sampled on numerous occasions and interval estimates are made on each occasion, the resulting intervals would bracket the true population parameter in approximately 95 % of the cases. A confidence stated at a 1−αlevel can be thought of as the inverse of a significance level, α.
+
+```python
+# Get the confidence intervals of the model
+predict_mean_ci_low, predict_mean_ci_upp = data[:,4:6].T
+
+# Data for regions where we want to shade to indicate the intervals has
+# to be sorted by the x axis to display correctly
+CI_df = pd.DataFrame(columns = ['x_data', 'low_CI', 'upper_CI'])
+CI_df['x_data'] = daily_data['temp']
+CI_df['low_CI'] = predict_mean_ci_low
+CI_df['upper_CI'] = predict_mean_ci_upp
+CI_df.sort_values('x_data', inplace = True)
+
+# Define a function for the line plot with intervals
+def lineplotCI(x_data, y_data, sorted_x, low_CI, upper_CI, x_label, y_label, title):
+    # Create the plot object
+    _, ax = plt.subplots()
+
+    # Plot the data, set the linewidth, color and transparency of the
+    # line, provide a label for the legend
+    ax.plot(x_data, y_data, lw = 1, color = '#539caf', alpha = 1, label = 'Fit')
+    # Shade the confidence interval
+    ax.fill_between(sorted_x, low_CI, upper_CI, color = '#539caf', alpha = 0.4, label = '95% CI')
+    # Label the axes and provide a title
+    ax.set_title(title)
+    ax.set_xlabel(x_label)
+    ax.set_ylabel(y_label)
+
+    # Display legend
+    ax.legend(loc = 'best')
+
+# Call the function to create plot
+lineplotCI(x_data = daily_data['temp']
+           , y_data = fitted_values
+           , sorted_x = CI_df['x_data']
+           , low_CI = CI_df['low_CI']
+           , upper_CI = CI_df['upper_CI']
+           , x_label = 'Normalized temperature (C)'
+           , y_label = 'Check outs'
+           , title = 'Line of Best Fit for Number of Check Outs vs Temperature')
+```
+
+* histogram Histograms are used to get a rough idea of how a quantitative variable is distributed. The observed values are placed into different bins and the frequency of observations in each of those bins is calculated. For this example, let's examine the distribution of registered bike checkouts.
+
+```python
+# Define a function for a histogram
+def histogram(data, x_label, y_label, title):
+    _, ax = plt.subplots()
+    ax.hist(data, color = '#539caf')
+    ax.set_ylabel(y_label)
+    ax.set_xlabel(x_label)
+    ax.set_title(title)
+
+# Call the function to create plot
+histogram(data = daily_data['registered']
+           , x_label = 'Check outs'
+           , y_label = 'Frequency'
+           , title = 'Distribution of Registered Check Outs')
+```
+
+* Box plot
+
+  Box plots are most suited to displaying the distribution of a variable across multiple groups. The bottom and top of the boxes indicate the lower and upper quartiles, respectively, and the line inside the box is for the median. Vertical lines extending from the boxes \("whiskers"\) show the range of the data \(by default, this is 1.5x past the upper and lower quartiles in matplotlib\). Box plots can be thought of as a hybrid between bar plots and overlaid histograms. They surface much of the same information as bar plots, but they also expose the variation in the data. However, they do not show the underlying distribution of the data.
+
+```python
+# Unlike with bar plots, there is no need to aggregate the data
+# before plotting
+# However the data for each group (day) needs to be defined
+days = np.unique(daily_data['weekday'])
+bp_data = []
+for day in days:
+    bp_data.append(daily_data[daily_data['weekday'] == day]['cnt'].values)
+
+# Define a function to create a boxplot:
+def boxplot(x_data, y_data, base_color, median_color, x_label, y_label, title):
+    _, ax = plt.subplots()
+
+    # Draw boxplots, specifying desired style
+    ax.boxplot(y_data
+               # patch_artist must be True to control box fill
+               , patch_artist = True
+               # Properties of median line
+               , medianprops = {'color': median_color}
+               # Properties of box
+               , boxprops = {'color': base_color, 'facecolor': base_color}
+               # Properties of whiskers
+               , whiskerprops = {'color': base_color}
+               # Properties of whisker caps
+               , capprops = {'color': base_color})
+
+    # By default, the tick label starts at 1 and increments by 1 for
+    # each box drawn. This sets the labels to the ones we want
+    ax.set_xticklabels(x_data)
+    ax.set_ylabel(y_label)
+    ax.set_xlabel(x_label)
+    ax.set_title(title)
+
+# Call the function to create plot
+boxplot(x_data = days
+        , y_data = bp_data
+        , base_color = '#539caf'
+        , median_color = '#297083'
+        , x_label = 'Day of week'
+        , y_label = 'Check outs'
+        , title = 'Total Check Outs By Day of Week (0 = Sunday)')
+```
+
+#### ➡➡How to plot bold value with shade area deviation?
+
+Calculate mean and std. fill between \(mean-std, mean+std\).
+
+```python
+plt.style.use('ggplot') #Change/Remove This If you Want ⭐️
+
+fig, ax = plt.subplots(figsize=(8, 4))
+#ax.plot(trees_grid, train_acc.mean(axis=1), alpha=0.5, color='blue', label='train', linewidth = 4.0)
+ax.plot(trees_grid, test_acc.mean(axis=1), alpha=0.5, color='red', label='cv', linewidth = 1.0)
+ax.fill_between(trees_grid, test_acc.mean(axis=1) \
+    - test_acc.std(axis=1), test_acc.mean(axis=1) + \
+    test_acc.std(axis=1), color='#888888', alpha=0.4)
+ax.fill_between(trees_grid, test_acc.mean(axis=1) \
+    - 2*test_acc.std(axis=1), test_acc.mean(axis=1) \
+    + 2*test_acc.std(axis=1), color='#888888', alpha=0.2)
+ax.legend(loc='best')
+ax.set_ylim([0.88,1.02]) # ⭐️
+ax.set_ylabel("Accuracy")
+ax.set_xlabel("N_estimators")
+```
+
+### ➡ Pandas
+
+| Object Type | Selection | Return Value Type |
+| :--- | :--- | :--- |
+| Series | `series[label]` | scalar value |
+| DataFrame | `frame[colname]` | `Series` corresponding to colname |
+| Panel | `panel[itemname]` | `DataFrame` corresponding to the itemname |
+
+```python
+pd.Series([...]) # basic form
+df = pd.DataFrame() #dataframe 
+df.head() ;  df.tail(3) #viewing data
+
+# rolling means etc.
+```
+
+## Mathematics knowledge 🌀
+
+*  variance;  standard deviation;  MSE\(mean squared error\);  RMS;
+
+  \*\*\*\*
+
+* standard deviation \(SD\) formula: $$sd=\sqrt{\sum{|x-\mu|^{2} }/N} $$  where x is a value in the data set, /mu is the mean of the data set, and N is the number of data points in the population.
 
 ### Dequeue
 
@@ -162,4 +385,6 @@ else:
 #d[0]：取出最左边元素
 #d[-1]：取出最右边元素
 ```
+
+
 
