@@ -58,22 +58,26 @@ Internship
 
 {% embed url="https://silo.ai/research/" %}
 
-LOCATIONS: HELSINKI, TURKU & LONDON  
+LOCATIONS: **HELSINKI, TURKU** & LONDON  
   
 ML, NLP, CV, Stack developer; Solutions strategies; AI engineer; AI fellow; AI intern;
+
+Silo.AI delivers tailor-made AI-driven solutions for your business. We build artificial intelligence as a service, tailored for your business.
+
+All businesses with digital capabilities can benefit from artificial intelligence. To augment your core operations with AI, we work closely with you to build tailored solutions powered by **Machine Learning, Computer Vision & Natural Language Processing** in their most cutting edge form.
 
 ## FCAI
 
 {% embed url="http://www.fcai.fi/fcainews/2018/7/2/postdoc-and-doctoral-student-positions-in-machine-learning" %}
 
-finnish center for AI.  
+Finnish center for AI.  
 Our goal is Real AI: artificial intelligence that is able to work with humans and augment human capabilities to operate in a complex world. To ensure the sustainable, long-term development of Finnish industry and society, the Real AI needs to be built with Real People in the Real World. To achieve this, FCAI and Finland need to be an integral part of the international community.
 
 Research Programs
 
 {% embed url="http://fcai.fi/research/" %}
 
-👇是这里的一个老师
+👇This is a professor of FCAI
 
 #### NEXT-GENERATION DATA-EFFICIENT DEEP LEARNING
 
