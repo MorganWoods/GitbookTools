@@ -91,7 +91,29 @@ Responsible coordinator: CEO [Harri Valpola](https://thecuriousaicompany.com/) \
 
 {% embed url="https://www.glassdoor.com/Job/helsinki-machine-learning-jobs-SRCH\_IL.0,8\_IC2440450\_KO9,25.htm" %}
 
-## Nan
 
-## Nan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## NaN
 
