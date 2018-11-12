@@ -2,7 +2,7 @@
 description: Job seeking information's collection
 ---
 
-# Career 💰
+# Career
 
 ## Experience for applying
 
@@ -51,6 +51,8 @@ Internship
 * Few-shot learning, Online learning, Active learning
 * Natural language understanding
 * Planning, reasoning
+
+Our research interests include machine attention, segmentation \(with the published Tagger technology\), and perceptual grouping
 
 
 

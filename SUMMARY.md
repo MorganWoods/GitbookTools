@@ -5,7 +5,7 @@
   * [DiaryEssay](dailylife/dairyessay.md)
   * [EnglishTalking](dailylife/englishtalking.md)
   * [EnglishWrighting](dailylife/englishwrighting.md)
-* [Career 💰](career/README.md)
+* [Career](career/README.md)
   * [Interview](career/interview.md)
 * [My Note 📋](note/README.md)
   * [Meeting](note/meeting-jul-27-2018.md)
