@@ -349,6 +349,14 @@ df.head() ;  df.tail(3) #viewing data
 # rolling means etc.
 ```
 
+#### `pandas.concat`
+
+\(_objs_, _axis=0_, _join='outer'_, _join\_axes=None_, _ignore\_index=False_, _keys=None_, _levels=None_, _names=None_, _verify\_integrity=False_, _sort=None_, _copy=True_\)[\[source\]](http://github.com/pandas-dev/pandas/blob/v0.23.4/pandas/core/reshape/concat.py#L21-L226)
+
+Concatenate pandas objects along a particular axis with optional set logic along the other axes.
+
+Can also add a layer of hierarchical indexing on the concatenation axis, which may be useful if the labels are the same \(or overlapping\) on the passed axis number.
+
 ## Mathematics knowledge 🌀
 
 *  variance;  standard deviation;  MSE\(mean squared error\);  RMS;
